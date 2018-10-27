@@ -32,19 +32,6 @@ public class DbUtil {
         }
     }
     
-    /*public static void main(String[] args) {
-        DbUtil db=new DbUtil();
-        try {
-            db.getCon();
-            System.out.println("测试连接数据库，连接成功");
-        } catch (Exception e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
-            System.out.println("测试连接数据库，连接失败");
-        }
-        
-    }*/
-    
     @Test
     	public void  testDbUtil() throws Exception
 		{
