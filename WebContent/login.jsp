@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>登录界面</title>
 </head>
-<body>
+<body> 
 <form action="login" method="post">
     <table>
         <tr>
